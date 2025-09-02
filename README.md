@@ -2,7 +2,7 @@ To-Do List Application
 
 This is a simple To-Do List application built using Data Structures and Algorithms (DSA) concepts. The application allows users to manage their tasks efficiently by performing operations like adding, viewing, deleting, and marking tasks as completed.
 
-⭐Purpose / Motivation
+⭐Purpose:
 
 I developed this application to:
 
